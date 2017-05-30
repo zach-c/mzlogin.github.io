@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://mazhuang.org
+url: https://blog.zachchan.com
 date_format: "ordinal"
 title: Chan's Blog
 subtitle: "用文字记录生活"
