@@ -4,10 +4,10 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: Chan's Blog
+subtitle: "用文字记录生活"
+description: "Zach Chan's Blog"
+keywords: Zach, Zach Chan, Zach Chan's Blog, 前端
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: zkh360.com
-organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+author: Zach Chan
+organization: blog.zachchan.com
+organization_url: https://blog.zachchan.com
+github_username: zach-c
+location: BeiJing, China
+email: me@zachchan.com
 
 # ---------------- #
 #    Navigation    #
@@ -87,8 +87,8 @@ repository: mzlogin/mzlogin.github.io
 comments_provider: netease_gentie
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
-disqus_username: mzlogin
-netease_gentie_key: 560ed243b708465d82d5a0a5f3b83da1
+disqus_username: ZachChanBlog 
+netease_gentie_key: ab9a34159f3544ee9d387fe714015dd3
 # 在使用网易云跟帖时可点击显示 Disqus
 lazy_load_disqus : true
 
@@ -96,4 +96,4 @@ lazy_load_disqus : true
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: UA-50427711-1
